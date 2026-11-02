@@ -7,4 +7,3 @@
 - git switch：切换分支
 - git pull：获取远程更新并整合到当前分支
 - Pull Request：提出分支合并请求，方便检查和讨论修改
-- 错误示例：git commit 会自动把代码上传到 GitHub。
