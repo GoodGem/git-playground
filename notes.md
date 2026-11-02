@@ -1,4 +1,4 @@
-# Git 学习笔记
+# 我的 Git 入门笔记
 
 - git status：查看当前状态
 - git add：将修改放入暂存区
